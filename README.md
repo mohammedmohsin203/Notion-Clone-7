@@ -309,7 +309,7 @@ Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment)
 
 ## 🔧 Contributing
 
-[![contributors](https://contrib.rocks/image?repo=ladunjexa/nextjs14-notion)](https://github.com/ladunjexa/nextjs14-notion/graphs/contributors)
+[![contributors](https://contrib.rocks/image?repo=mohammedmohsin203/Notion-Clone-7)](https://github.com/mohammedmohsin203/Notion-Clone-7/graphs/contributors)
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
