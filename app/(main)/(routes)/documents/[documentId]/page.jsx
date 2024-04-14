@@ -9,10 +9,7 @@ import { useMutation, useQuery } from "convex/react";
 
 
 const DocumentIdPage = ({ params }) => {
-  // const Editor = useMemo(
-  //   () => dynamic(() => import("@/components/Editor"), { ssr: false }),
-  //   []
-  // );
+
 
   const document = useQuery(api.documents.getById, {
     documentId: params.documentId,
