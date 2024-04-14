@@ -7,13 +7,11 @@ import { useMemo } from "react";
 import { api } from "@/convex/_generated/api";
 import Toolbar from "@/components/Toolbar";
 import Cover from "@/components/Cover";
+import Editor from "@/components/Editor";
 import { Skeleton } from "@/components/ui/skeleton";
 
 const DocumentIdPage = ({ params }) => {
-  const Editor = useMemo(
-    () => dynamic(() => import("@/components/editor"), { ssr: false }),
-    []
-  );
+
 
   const document = useQuery(api.documents.getById, {
     documentId: params.documentId,
