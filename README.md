@@ -1,9 +1,7 @@
 
 <!-- GitHub badges -->
 
-![demo](https://notion-two-plum.vercel.app/)
-
-[![Mohsin](https://custom-icon-badges.demolab.com/badge/made%20by%20-ladunjexa-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/mohammedmohsin203/Notion-Clone-7)
+[![Mohsin](https://custom-icon-badges.demolab.com/badge/made%20by%20-MohammedMohsin-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/mohammedmohsin203/Notion-Clone-7)
 [![License](https://img.shields.io/github/license/ladunjexa/nextjs14-notion?color=dddddd&labelColor=000000)](https://github.com/ladunjexa/nextjs14-notion/blob/main/LICENSE)
 [![Top Language](https://img.shields.io/github/languages/top/ladunjexa/nextjs14-notion?logo=github&logoColor=%23007ACC&label=TypeScript)](https://www.typescriptlang.org/)
 [![Contributors](https://img.shields.io/github/contributors/ladunjexa/nextjs14-notion?style=flat&color=orange&label=Contributors)](https://github.com/ladunjexa/nextjs14-notion/graphs/contributors)
