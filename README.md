@@ -354,9 +354,9 @@ CodeWithAntonio. (2023). [Fullstack Notion Clone: Next.js 13, React, Convex, Tai
 
 ## 📞 Contact Us
 
-[![Telegram](https://img.shields.io/badge/Telegram-@ladunjexa-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://t.me/muchumohsin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ladunjexa-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/mohammed-mohsin-bbb36917a/)
-[![Instagram](https://img.shields.io/badge/Instagram-ladunjexa-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/mohsinmohammed457)
+[![Telegram](https://img.shields.io/badge/Telegram-@MohammedMohsin-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://t.me/muchumohsin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MohammedMohsin-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/mohammed-mohsin-bbb36917a/)
+[![Instagram](https://img.shields.io/badge/Instagram-MohammedMohsin-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/mohsinmohammed457)
 
 
 ## 📋 License
